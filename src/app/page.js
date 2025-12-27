@@ -186,6 +186,10 @@ function Page() {
               delay: 0,
               ease: "power2.out",
             },
+            markers:{
+              startColor: "transparent",
+              endColor: "transparent",
+            }
           },
         });
 
